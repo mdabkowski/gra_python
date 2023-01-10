@@ -1,0 +1,12 @@
+szer = 728
+wys = 448
+tile = 16
+color_player = (255, 255, 0)
+color_wall = (0, 0, 255)
+color_mob = (255, 0, 0)
+color_skarb = (200, 200, 50)
+color_black = (0, 0, 0)
+color_white = (255, 255, 255)
+server = "127.0.0.1"
+port = 9000
+port1 = 9010
